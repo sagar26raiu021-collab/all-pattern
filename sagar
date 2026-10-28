@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+    int marks[5],i,result;
+    printf("input marks\n");
+    for(i=0;i<5;i++){
+        scanf("%d",&target);
+    }
+    int target;
+    printf("enter target: ");
+    scanf("%d",&target);
+    printf("index of element: ");
+}
